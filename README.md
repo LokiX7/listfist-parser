@@ -27,6 +27,6 @@ ___
 
 The requirement is not strict so you can work with older versions, however I can not vouch for the functionality.
 
-beautifulsoup4=4.10.0
-requests=2.22.0
-python=3.8
+- beautifulsoup4=4.10.0
+- requests=2.22.0
+- python=3.8
