@@ -20,7 +20,7 @@ Just run the app and pass url table page. The data file will be saved to the sam
 
 ____
 
-### Data structure: [{Number: Episode number, Name: Episode name, Date: Release date}, {}]
+#### Data structure: [{Number: Episode number, Name: Episode name, Date: Release date}, {}]
 
 ___
 
