@@ -9,7 +9,7 @@ ____
 
 Import "parser" function from parser.py and pass arguments to it: 
 1. url = page url with episodes table.
-2. headers = your request headers dict {user-agent: ~, 'accept': ~}. 
+2. headers = your request headers dict {user-agent: ~, 'accept': ~}.<br /> 
    How to view HTTPS headers https://mkyong.com/computer-tips/how-to-view-http-headers-in-google-chrome/ 
 3. file_name = name a json dict file where data will be stored 
 4. path_to_save = json file save path. By default saves to the working directory. 
