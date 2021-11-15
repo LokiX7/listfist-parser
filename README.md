@@ -16,7 +16,7 @@ Import "parser" function from parser.py and pass arguments to it:
 
 ### or
 
-Just run the app and pass url table page. The data file will be saved to the same directory
+Just run the app and pass url table page. The data file will be saved to the same directory.
 
 ____
 
